@@ -13,5 +13,4 @@ docker run -it --rm \
             --dlopen="2" \
             --no-color \
             --verbose \
-            --no-seesion-upload \
             --command="python3 /app/helloworld.java"
